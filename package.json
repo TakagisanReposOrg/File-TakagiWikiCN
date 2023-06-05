@@ -1,6 +1,6 @@
 {
   "name": "File-TakagiWikiCN",
-  "version": "1.0.0",  #每次上传文件后，在此处增加一个版本号触发部署，版本号顺次增加
+  "version": "1.0.0",
   "description": "NPMFile of TakagiWiki",
   "main": "package.json",
   "scripts": {
