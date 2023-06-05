@@ -1,6 +1,6 @@
 {
-  "name": "FileTakagiWikiCN",
-  "version": "1.0.1",
+  "name": "filetakagiwikicn",
+  "version": "1.0.0",
   "description": "NPMFile of TakagiWikiCN",
   "main": "package.json",
   "scripts": {
